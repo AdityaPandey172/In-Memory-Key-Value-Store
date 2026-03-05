@@ -224,7 +224,6 @@ Measures:
 * `README.md` \- This file  
 * `DOCUMENTATION.md` \- Complete API reference  
 * `SETUP_GUIDE.md` \- Installation and setup  
-* `PROJECT_SUMMARY.md` \- Portfolio document with metrics
 
 ## **Requirements**
 
