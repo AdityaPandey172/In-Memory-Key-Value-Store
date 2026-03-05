@@ -222,7 +222,7 @@ Measures:
 ## **Documentation**
 
 * `README.md` \- This file  
-* `DOCUMENTATION.md` \- Complete API reference  
+* `DOCUMENTATION.pdf` \- Complete API reference  
 * `SETUP_GUIDE.md` \- Installation and setup  
 
 ## **Requirements**
