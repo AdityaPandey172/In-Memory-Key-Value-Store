@@ -374,7 +374,7 @@ docker run kv-store
 
 For issues or questions:
 
-* Check `DOCUMENTATION.md` for API details  
+* Check `DOCUMENTATION.pdf` for API details  
 * Review test cases for examples  
 * Examine demo code in main files
 
